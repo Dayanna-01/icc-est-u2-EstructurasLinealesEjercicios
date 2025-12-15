@@ -20,4 +20,4 @@
 ##
 ### Ejercicio 3 Casa Palíndromo usando Colas - 15/Dic/2025
 ### Java
-![alt text](assets/stackJava.png)
+![alt text](assets/palindromoJava.png)
